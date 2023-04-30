@@ -1,4 +1,3 @@
-#![allow(dead_code)]
 use std::io::{stdout, stdin};
 use rand::prelude::*;
 use rand::rngs::SmallRng;

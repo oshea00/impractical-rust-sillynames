@@ -8,6 +8,8 @@ This example is for the "Silly Names" project.
 * Using random numbers
 * Colored terminal output using the 'crossterm' crate.
 * Getting user input from std::stdin() in a 'pythonic' way by implmenting input().
+* String to number conversion.
+* static array literals.
 
 ## Using
 > cargo run
