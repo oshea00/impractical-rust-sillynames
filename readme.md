@@ -11,5 +11,18 @@ This example is for the "Silly Names" project.
 
 ## Using
 > cargo run
+```How many names? 10
+10 funny names:
+Snoobs Winterkorn
+Pitchfork Ben Kingfish
+Crab Meat Winterkorn
+Snakes Overturf
+TeeTee Weiners
+Gootsy Cocktoasten
+Ovaltine Bloominshine
+'Mr Peabody' Fewhairs
+Crab Meat Sackrider
+Sweet Tea Jenkins
+```
 
 
