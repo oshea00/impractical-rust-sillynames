@@ -11,7 +11,8 @@ This example is for the "Silly Names" project.
 
 ## Using
 > cargo run
-```How many names? 10
+```
+How many names? 10
 10 funny names:
 Snoobs Winterkorn
 Pitchfork Ben Kingfish
